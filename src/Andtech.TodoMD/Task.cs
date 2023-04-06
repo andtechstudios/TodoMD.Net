@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace Andtech.Todo
+namespace Andtech.TodoMD
 {
 
 	public partial class Task

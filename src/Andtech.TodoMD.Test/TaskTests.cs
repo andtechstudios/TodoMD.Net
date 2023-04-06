@@ -1,4 +1,4 @@
-namespace Andtech.Todo.Test
+namespace Andtech.TodoMD.Test
 {
 
 	public class TaskTests
