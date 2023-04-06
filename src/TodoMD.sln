@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andtech.Todo", "Andtech.Todo\Andtech.Todo.csproj", "{65F887CC-0DD6-475B-875E-14C2BAD60FD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andtech.TodoMD", "Andtech.TodoMD\Andtech.TodoMD.csproj", "{65F887CC-0DD6-475B-875E-14C2BAD60FD8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andtech.Todo.Test", "Andtech.Todo.Test\Andtech.Todo.Test.csproj", "{FF9BF41A-7DCC-47E5-9573-43541C4E8F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andtech.TodoMD.Test", "Andtech.TodoMD.Test\Andtech.TodoMD.Test.csproj", "{FF9BF41A-7DCC-47E5-9573-43541C4E8F6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

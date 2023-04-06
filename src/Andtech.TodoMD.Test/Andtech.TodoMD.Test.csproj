@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Andtech.Todo\Andtech.Todo.csproj" />
+    <ProjectReference Include="..\Andtech.TodoMD\Andtech.TodoMD.csproj" />
   </ItemGroup>
 
 </Project>
