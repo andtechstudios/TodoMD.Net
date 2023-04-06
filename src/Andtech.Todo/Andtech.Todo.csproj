@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Authors>Andtech Studios</Authors>
+		<RepositoryUrl>https://github.com/andtechstudios/TodoMD.NET</RepositoryUrl>
+		<Copyright>"© $(CompanyName) $([System.DateTime]::Now.ToString(`yyyy`))"</Copyright>
+
+		<TargetFrameworks>net6.0</TargetFrameworks>
+		<PackageId>Andtech.TodoMD</PackageId>
+		<RootNamespace>$(PackageId)</RootNamespace>
+	</PropertyGroup>
+</Project>
